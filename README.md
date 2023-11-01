@@ -30,7 +30,7 @@ style이 너무 많으면 코드가 길어지고 가독성에 안 좋다고 판�
 style 관리
 
 
-### 구현
+# 구현
 
 https://week1-task-delta.vercel.app/
 
